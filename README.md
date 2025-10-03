@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning VisualBasic
 - 💞️ I’m looking to collaborate on VB & Power Bi
 - 📫 How to reach me 7011059020 Call & Whatsapp
-- 😄 Pronouns: ...
+- 😄 Pronouns: Su-mit
 - ⚡ Fun fact: ...
 
 <!---
