@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sumitsingh77
 - 👀 I’m interested in Coding and AI tech.
-- 🌱 I’m currently learning VisualBasic
+- 🌱 I’m currently learning VisualBasic & Sql
 - 💞️ I’m looking to collaborate on VB & Power Bi
 - 📫 How to reach me 7011059020 Call & Whatsapp
 - 😄 Pronouns: Su-mit
